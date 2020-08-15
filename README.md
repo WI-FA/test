@@ -1,2 +1,2 @@
 This a test of repository, with academic purpose.
-Bugfix/test1
+Bugfix/test2
